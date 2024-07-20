@@ -10,7 +10,7 @@ State management is efficiently handled with Redux, offering predictable and cen
 For transactions, UFit EShop integrates Stripe payment gateway for secure and hassle-free payments.
 Whether you're looking to explore the latest fitness equipment or simply shopping for quality products, UFit EShop caters to all your fitness needs with a user-friendly interface and reliable functionalities. Unlock the world of fitness shopping with UFit EShop!
 
-Live Link : https://u-fit-e-shop.vercel.app
+
 
 Frontend env Variables :
 VITE_APP_SERVER_DOMAIN=
@@ -23,7 +23,5 @@ JWT_SECRET=
 JWT_LIFETIME=
 STRIPE_SECRET_KEY=
 FRONTEND_URL=
-
-Backend Api Link : https://ufit-eshop.onrender.com
 
 
