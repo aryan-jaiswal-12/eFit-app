@@ -29,8 +29,8 @@ const createCheckout = async (req, res) => {
         };
       }),
 
-      success_url: `${process.env.FRONTEND_URL || "http://127.0.0.1:5173/"}/success`,
-      cancel_url: `${process.env.FRONTEND_URL || "http://127.0.0.1:5173/"}/cancelled`,
+      success_url: `${process.env.FRONTEND_URL"}/success`,
+      cancel_url: `${process.env.FRONTEND_URL"}/cancelled`,
     };
 
     const session = await stripe.checkout.sessions.create(params);
