@@ -36,7 +36,7 @@ const Contact = () => {
                   LinkedIn:
                   <p className="ml-2">
                     <a
-                      href="https://www.linkedin.com/in/om-singh-thakur-43b3b0251/"
+                      href="https://www.linkedin.com/in/aryan-jaiswal-9a609a228/"
                       target="_blank"
                       className="text-blue-500"
                     >
